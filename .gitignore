@@ -1,0 +1,11 @@
+# Ignore folders used for data storage. The folders themselves should be present when running experiments or evaluations
+data/**
+descriptors/**
+evaluations/**
+positions/**
+results/**
+vocabulary/**
+
+# Ignore editor files and python caches
+.idea/**
+__pycache__/
